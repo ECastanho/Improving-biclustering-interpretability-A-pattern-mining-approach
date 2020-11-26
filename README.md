@@ -1,1 +1,1 @@
-# Improving-biclustering-interpretability-A-pattern-mining-approach
+# Improving biclustering interpretability: A pattern mining approach
